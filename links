@@ -1,6 +1,6 @@
 /*
-API key = e8921c5d33044e92a1b0f54419363fd6
-API url = https://newsapi.org/v2/top-headlines?country=jp&apiKey=e8921c5d33044e92a1b0f54419363fd6
+API key = u can generate an api key on Newsapi.org
+API url = https://newsapi.org/v2/top-headlines?country=jp&apiKey=(generate your own key here)
 base url = https://newsapi.org
 methods = /v2/top-headlines
 querry = ?country=jp&category=sports //for example
